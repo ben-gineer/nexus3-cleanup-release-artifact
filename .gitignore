@@ -1,4 +1,6 @@
-/lib/
-/.settings/
-/.classpath
-/.project
+.idea/
+*.iml
+lib/
+.settings/
+.classpath
+.project
